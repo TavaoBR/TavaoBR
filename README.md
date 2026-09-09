@@ -8,11 +8,8 @@ Desenvolvimento de aplicações web, APIs REST, plataformas SaaS e sistemas corp
 
 <br>
 
-<a href="https://github.com/TavaoBR">
-  <img src="https://img.shields.io/badge/GitHub-TavaoBR-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/gustavo-fagundes-019175209/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Fagundes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -455,18 +452,6 @@ O objetivo é construir soluções que sejam **úteis, organizadas, sustentávei
 # 🤝 Vamos conversar?
 
 Estou sempre aberto a trocar experiências, colaborar em projetos e conhecer novas oportunidades.
-
-<div align="center">
-
-### Entre em contato
-
-<a href="https://www.linkedin.com/in/gustavo-fagundes-019175209/">
-<img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Fagundes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TavaoBR">
-<img src="https://img.shields.io/badge/GitHub-TavaoBR-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <br><br>
 
