@@ -1,150 +1,477 @@
-<h1 align="center">Olá, eu sou Gustavo Fagundes 👋</h1>
-
-<h3 align="center">Desenvolvedor Full Stack | Angular • Vue.js • Symfony • .NET</h3>
-
-<p align="center">
-Desenvolvedor de software focado na construção de <strong>aplicações web, APIs REST, sistemas corporativos e plataformas SaaS</strong>, atuando do frontend ao backend e buscando sempre soluções escaláveis, organizadas e de fácil manutenção.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-fagundes-019175209/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/TavaoBR">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-* 💻 Desenvolvedor **Full Stack** com experiência em aplicações web e sistemas corporativos.
-* 🏗️ Experiência com desenvolvimento e evolução de **APIs REST, plataformas SaaS e sistemas de gestão**.
-* 🎨 Desenvolvimento de interfaces modernas, responsivas e componentizadas.
-* ⚙️ Experiência com arquitetura backend, regras de negócio, autenticação e integração entre sistemas.
-* 🗄️ Experiência com bancos de dados relacionais e modelagem de dados.
-* 🐳 Utilização de Docker e ambientes Linux/WSL no desenvolvimento.
-* 📚 Atualmente aprofundando meus conhecimentos em **Angular, arquitetura de software, testes e boas práticas de engenharia**.
-* 🚀 Interesse constante em criar projetos completos que resolvam problemas reais.
-
----
-
-## 🚀 Tecnologias
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,vue,ts,js,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,symfony,dotnet,cs,nodejs" />
-</p>
-
-### Banco de dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### Ferramentas e DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
-</p>
-
----
-
-## 🧠 Principais conhecimentos
-
-```text
-Frontend
-├── Angular
-├── Vue.js
-├── TypeScript
-├── JavaScript
-├── Tailwind CSS
-├── Bootstrap
-└── Interfaces responsivas
-
-Backend
-├── PHP / Symfony
-├── C# / ASP.NET Core
-├── APIs REST
-├── Autenticação e autorização
-├── Arquitetura em camadas
-└── Regras de negócio
-
-Database & DevOps
-├── MySQL
-├── PostgreSQL
-├── Docker
-├── Git / GitHub
-├── Linux / WSL
-└── Deploy de aplicações
-```
-
----
-
-## 💼 Áreas de experiência
-
-Tenho experiência desenvolvendo soluções envolvendo:
-
-* Sistemas de gestão empresarial
-* CRM e ERP
-* Sistemas de atendimento e Help Desk
-* Controle de ponto e gestão de colaboradores
-* Plataformas SaaS multi-tenant
-* Dashboards administrativos
-* Sistemas financeiros
-* Integração frontend/backend
-* APIs REST
-* Autenticação e controle de permissões
-* Relatórios e exportação de dados
-
----
-
-## 📊 GitHub
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TavaoBR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+# Gustavo Fagundes
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavaoBR&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+### Full Stack Developer • Software Engineer
+
+Desenvolvimento de aplicações web, APIs REST, plataformas SaaS e sistemas corporativos.
+
+<br>
+
+<a href="https://github.com/TavaoBR">
+  <img src="https://img.shields.io/badge/GitHub-TavaoBR-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gustavo-fagundes-019175209/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Fagundes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🎯 Atualmente
+## 👨‍💻 Sobre mim
 
-Atualmente estou focado em evoluir meus conhecimentos e projetos envolvendo:
+Sou **Desenvolvedor Full Stack**, atuando na criação e evolução de aplicações web, APIs, sistemas administrativos e plataformas SaaS.
+
+Minha experiência envolve desde o desenvolvimento de interfaces modernas e responsivas até a implementação de regras de negócio, APIs REST, autenticação, controle de acesso, modelagem de dados e integrações entre sistemas.
+
+Busco desenvolver soluções com foco em:
+
+* Arquitetura organizada e sustentável
+* Código limpo e de fácil manutenção
+* Componentização e reutilização
+* Segurança e controle de acesso
+* Performance e escalabilidade
+* Experiência do usuário
+* Boas práticas de desenvolvimento
+* Integração eficiente entre frontend e backend
+
+Tenho experiência principalmente com **Angular, Vue.js, TypeScript, PHP, Symfony, C#, ASP.NET Core, MySQL, Docker e Git**.
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=angular,vue,ts,js,html,css,tailwind,bootstrap" />
+
+</div>
+
+<br>
+
+**Principais conhecimentos:**
+
+* Angular
+* Vue.js 3
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* Componentização
+* SPA
+* Consumo de APIs REST
+* Formulários e validações
+* Gerenciamento de estado
+* Interfaces responsivas
+
+---
+
+## Backend
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=php,symfony,dotnet,cs,nodejs" />
+
+</div>
+
+<br>
+
+**Principais conhecimentos:**
+
+* PHP
+* Symfony
+* C#
+* ASP.NET Core
+* APIs REST
+* Arquitetura em camadas
+* Services
+* Repositories
+* DTOs
+* Autenticação
+* Autorização
+* JWT
+* Cookies seguros
+* Regras de negócio
+* Integrações entre sistemas
+
+---
+
+## Banco de Dados
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+</div>
+
+<br>
+
+* MySQL
+* PostgreSQL
+* Modelagem relacional
+* Consultas SQL
+* Relacionamentos
+* Migrations
+* ORM
+* Doctrine
+* Entity Framework Core
+
+---
+
+## DevOps & Ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+
+</div>
+
+<br>
+
+* Git
+* GitHub
+* Docker
+* Linux
+* WSL
+* Postman
+* Composer
+* NPM
+* Deploy de aplicações
+* Gerenciamento de ambientes
+* Versionamento
+* Organização de branches e commits
+
+---
+
+# 🏗️ Experiência com desenvolvimento
+
+Ao longo dos meus projetos, venho trabalhando com soluções que envolvem diferentes áreas de negócio.
+
+### Sistemas SaaS
+
+Desenvolvimento de aplicações multiusuário e multitenant com gerenciamento de empresas, usuários, permissões, planos e módulos.
+
+### CRM & ERP
+
+Construção de sistemas voltados para gestão empresarial, incluindo:
+
+* Clientes
+* Usuários
+* Permissões
+* Funil de vendas
+* Financeiro
+* Gestão de pessoas
+* Tickets
+* Relatórios
+* Dashboards
+
+### Gestão de Pessoas
+
+Desenvolvimento de funcionalidades relacionadas a:
+
+* Colaboradores
+* Contratos
+* Controle de ponto
+* Escalas de trabalho
+* Banco de horas
+* Atestados
+* Ocorrências
+* Folha de ponto
+* Permissões
+
+### Help Desk
+
+Implementação de módulos para:
+
+* Abertura de chamados
+* Categorias
+* Filas
+* Prioridades
+* Departamentos
+* Atendentes
+* Pipelines
+* Histórico
+* Notificações
+* SLA
+
+### Sistemas Financeiros
+
+Desenvolvimento de funcionalidades envolvendo:
+
+* Receitas
+* Despesas
+* Pagamentos
+* Cobranças
+* Extratos
+* Dashboards
+* Relatórios
+* Exportação de dados
+
+---
+
+# 🧩 Arquitetura
+
+Tenho interesse especial em organização e arquitetura de software.
+
+Em projetos backend, busco trabalhar com uma estrutura semelhante a:
 
 ```text
-Angular
-Arquitetura de Software
-APIs REST
-Sistemas SaaS
+Controller
+    │
+    ▼
+Service
+    │
+    ▼
+Repository
+    │
+    ▼
+ORM
+    │
+    ▼
+Database
+```
+
+Responsabilidades bem definidas ajudam a manter o código mais organizado, testável e escalável.
+
+### Alguns princípios que procuro aplicar
+
+```text
+Separation of Concerns
 Clean Code
-Testes automatizados
-Docker
-CI/CD
+SOLID
+Dependency Injection
+Repository Pattern
+Service Layer
+DTO Pattern
+RESTful APIs
+Componentização
+Reutilização de código
 ```
 
 ---
 
-## 🤝 Contato
+# 🚀 Projetos e experiências práticas
 
-Estou aberto a oportunidades como **Desenvolvedor Frontend, Backend ou Full Stack**, além de projetos onde eu possa contribuir na construção e evolução de produtos digitais.
+Alguns dos tipos de projetos que desenvolvo:
 
-📌 **LinkedIn:** [Gustavo Fagundes](https://www.linkedin.com/in/gustavo-fagundes-019175209/)
-💻 **GitHub:** [github.com/TavaoBR](https://github.com/TavaoBR)
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 ERP / CRM
+
+Sistema de gestão empresarial com módulos independentes.
+
+**Funcionalidades**
+
+* CRM
+* Clientes
+* Usuários
+* Financeiro
+* Gestão de pessoas
+* Help Desk
+* Permissões
+* Dashboards
+
+**Stack**
+
+`Vue.js` `Symfony` `MySQL` `Docker`
+
+</td>
+
+<td width="50%">
+
+### 🕐 Gestão de Ponto
+
+Sistema de controle de jornada e gestão de colaboradores.
+
+**Funcionalidades**
+
+* Registro de ponto
+* Escalas
+* Contratos
+* Banco de horas
+* Relatórios
+* Selfie
+* Geolocalização
+
+**Stack**
+
+`Vue.js` `.NET` `EF Core` `MySQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎫 Help Desk
+
+Sistema completo para atendimento interno e suporte.
+
+**Funcionalidades**
+
+* Tickets
+* Filas
+* Pipelines
+* Categorias
+* Prioridades
+* SLA
+* Histórico
+* Notificações
+
+**Stack**
+
+`Vue.js` `Symfony` `MySQL`
+
+</td>
+
+<td width="50%">
+
+### 💳 Checkout
+
+Projeto voltado para fluxo de pagamento e experiência de compra.
+
+**Funcionalidades**
+
+* Checkout
+* Carrinho
+* Resumo
+* Pagamento
+* Validações
+* Responsividade
+
+**Stack**
+
+`Angular` `TypeScript` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <strong>Transformando problemas em software bem estruturado.</strong>
-</p>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TavaoBR&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavaoBR&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TavaoBR&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TavaoBR&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 📚 Atualmente estudando e evoluindo
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+```text
+Angular
+TypeScript
+Arquitetura de Software
+Clean Architecture
+Design Patterns
+Testes automatizados
+Docker
+CI/CD
+Segurança de APIs
+Sistemas distribuídos
+Performance
+```
+
+---
+
+# 🎯 Objetivos profissionais
+
+Busco oportunidades onde eu possa contribuir na construção e evolução de produtos digitais, principalmente como:
+
+* Full Stack Developer
+* Frontend Developer
+* Backend Developer
+* Software Developer
+
+Tenho interesse especial em equipes que valorizem:
+
+* Boas práticas
+* Arquitetura
+* Qualidade de código
+* Produto
+* Colaboração
+* Aprendizado contínuo
+
+---
+
+# 💡 Como gosto de trabalhar
+
+```text
+Problema
+   ↓
+Entendimento da regra de negócio
+   ↓
+Definição da solução
+   ↓
+Arquitetura
+   ↓
+Implementação
+   ↓
+Testes
+   ↓
+Entrega
+   ↓
+Melhoria contínua
+```
+
+Acredito que desenvolvimento de software vai além de escrever código.
+
+O objetivo é construir soluções que sejam **úteis, organizadas, sustentáveis e preparadas para evoluir**.
+
+---
+
+# 🤝 Vamos conversar?
+
+Estou sempre aberto a trocar experiências, colaborar em projetos e conhecer novas oportunidades.
+
+<div align="center">
+
+### Entre em contato
+
+<a href="https://www.linkedin.com/in/gustavo-fagundes-019175209/">
+<img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Fagundes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TavaoBR">
+<img src="https://img.shields.io/badge/GitHub-TavaoBR-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+---
+
+### 🚀 Software bem construído começa com boas decisões.
+
+</div>
